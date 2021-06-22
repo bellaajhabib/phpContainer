@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PhpIncludePathManager">
+    <include_path>
+      <path value="$PROJECT_DIR$/public_html/vendor/composer" />
+      <path value="$PROJECT_DIR$/public_html/vendor/phpmailer/phpmailer" />
+      <path value="$PROJECT_DIR$/public_html/vendor/pimple/pimple" />
+    </include_path>
+  </component>
+</project>
